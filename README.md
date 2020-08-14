@@ -1,3 +1,3 @@
-# Retrofit_GhostOfTsushima Challeneg
+# Retrofit_GhostOfTsushima Challenge
 
 Developed with Unreal Engine 4
